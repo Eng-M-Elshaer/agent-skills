@@ -1,0 +1,4 @@
+interface:
+  display_name: "Divide & Conquer"
+  short_description: "Strict decomposition workflow for coding tasks"
+  default_prompt: "Decompose first, then solve and integrate."

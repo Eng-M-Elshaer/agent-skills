@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Security Audit"
+  short_description: "Banking-grade iOS security audit with PDF scoring."
+  default_prompt: "Audit this iOS Swift project and generate a banking-grade PDF security report with severities, fixes, and a score out of 100."

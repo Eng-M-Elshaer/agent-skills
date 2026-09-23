@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Architecture Reviewer"
+  short_description: "Audit Flutter architecture; actionable report"
+  default_prompt: "Review this Flutter/Dart repo for architecture compliance (core/ + features/, UI->Logic->Data dependencies, naming, file sizes, duplicates, networking, routing, state management). Produce an actionable markdown report with scores and refactor plan."

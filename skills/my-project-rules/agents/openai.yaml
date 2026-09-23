@@ -1,0 +1,4 @@
+interface:
+  display_name: "My Project Rules"
+  short_description: "Create repo rules and project memory"
+  default_prompt: "Use $my-project-rules to set up AGENTS.md and project memory for this repository."
