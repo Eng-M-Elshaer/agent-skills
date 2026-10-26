@@ -2,6 +2,17 @@
 
 A collection of Codex skills copied from the local `~/.codex/skills` directory. Each skill keeps its complete source bundle, including `SKILL.md`, references, scripts, assets, tests, and any embedded license files.
 
+## Mobile development skills
+
+An overview of the repository's mobile-focused skills for Flutter, Android, iOS/SwiftUI, and Firebase. The video also labels `mobile-cross-platform-designer` as coming from the attached ZIP; that skill is not currently in this repository.
+
+<video controls playsinline preload="metadata" width="360">
+  <source src="assets/mobile-developer-skills.mp4" type="video/mp4">
+  Your browser does not support embedded video. [Download the MP4](assets/mobile-developer-skills.mp4).
+</video>
+
+[Download the mobile skills video](assets/mobile-developer-skills.mp4)
+
 ## Installation
 
 Copy the skill directories you need into your Codex skills directory:
